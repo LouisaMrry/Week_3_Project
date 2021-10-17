@@ -1,7 +1,9 @@
 # Week_3_Project
 <html> 
 <body>
-  <h1> We're confused </h1>
+  <h1> Hi Suncica! We're very confused but we have the spirit. And also three additional branches. </h1>
+  
+  <h6> But seriously we're really confused <h6>
   
   </body>
 
