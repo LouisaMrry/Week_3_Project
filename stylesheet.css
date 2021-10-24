@@ -1,0 +1,54 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #ffffff;
+}
+.navbar {
+    background:#0B243B;
+}
+.nav-link,
+.navbar-brand {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.nav-link {
+    margin-right: 1em !important;
+}
+.nav-link:hover {
+    color: rgb(255, 255, 255);
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.description {
+	left: 50%;
+	position: absolute;
+	top: 45%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.description h1 {
+	color: #030314;
+}
+.description p {
+	color: rgb(14, 74, 102);
+	font-size: 1.3rem;
+	line-height: 1.5;
+
+    
+}
+.information {
+	left: 50%;
+	position: absolute;
+	top: 250%;
+	transform: translate(-50%, -55%);
+	text-align: center;
+}
+.information h2 {
+	color: #030314;
+}
+.information p {
+	color: rgb(14, 74, 102);
+	font-size: 1.3rem;
+	line-height: 1.5;
+}
